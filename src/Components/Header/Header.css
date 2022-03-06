@@ -1,0 +1,10 @@
+.color{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.color:hover{
+    color: rgb(83, 196, 196);
+   
+   
+}

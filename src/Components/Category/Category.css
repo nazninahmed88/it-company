@@ -1,0 +1,17 @@
+.bg-color{
+    background-color: rgb(2, 2, 48);
+}
+.mega-box{
+        
+        height: 280px;
+       overflow-y: scroll;
+}
+.submitt{
+    background-color: mediumvioletred;
+    color: white;
+    width: 200px;
+    border: none;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+

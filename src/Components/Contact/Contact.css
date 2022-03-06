@@ -1,0 +1,13 @@
+.froms{
+
+}
+.submit{
+    background-color: rgb(100, 197, 235);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+   margin-left: 100px;
+   border: none;
+   border-radius: 5px;
+}
